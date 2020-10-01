@@ -1,0 +1,1 @@
+Make mpv a small overlay when focus is lost. Works well with windows borders off. Needs an injector.
